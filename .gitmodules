@@ -1,0 +1,9 @@
+[submodule "jmsd_tpa_cppunit"]
+	path = jmsd_tpa_cppunit
+	url = https://github.com/jiteman/jmsd_tpa_cppunit.git
+[submodule "jmsd_tpa_gtm"]
+	path = jmsd_tpa_gtm
+	url = https://github.com/jiteman/jmsd_tpa_gtm.git
+[submodule "jmsd_tpa_poco"]
+	path = jmsd_tpa_poco
+	url = https://github.com/jiteman/jmsd_tpa_poco.git
