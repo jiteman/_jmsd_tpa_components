@@ -7,6 +7,3 @@
 [submodule "jmsd_tpa_poco"]
 	path = jmsd_tpa_poco
 	url = https://github.com/jiteman/jmsd_tpa_poco.git
-[submodule "jmsd_tpa_abseil"]
-	path = jmsd_tpa_abseil
-	url = https://github.com/jiteman/jmsd_tpa_abseil.git
