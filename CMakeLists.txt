@@ -8,7 +8,10 @@ JMSD_SHOW_PROJECT_GROUP_HEADER()
 
 add_subdirectory( jmsd_tpa_cppunit )
 add_subdirectory( jmsd_tpa_gtm )
+
+# tests
 #add_subdirectory( jmsd_tpa_poco )
+#~tests
 
 
 JMSD_SHOW_PROJECT_GROUP_FOOTER()
